@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'Text::Histogram',
-    AUTHOR              => q{Marco Neves <neves@cpan.org>},
+    AUTHOR              => q{Mikko Koivunalho <mikko.koivunalho@iki.fi>},
     VERSION_FROM        => 'lib/Text/Histogram.pm',
     ABSTRACT_FROM       => 'lib/Text/Histogram.pm',
     ($ExtUtils::MakeMaker::VERSION >= 6.3002
